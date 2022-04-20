@@ -1,11 +1,11 @@
 <h1 align="center">
-  Coucou 🍑 Ceci est une vitrine !
+  Hi there 🍑 This is a showcase!
 </h1>
 
 <p align="center">
-En réalité, il n'y a pas grand chose à y voir. 
+In fact, there is not much to see. 
 </p>
 
 <p align="center">
-  <a href="https://www.twitch.tv/nariiel">Mais n'hésites pas à te Sub ! Savais-tu qu'avec PrimeGaming, c'est gratuit ?</a>
+  <a href="https://www.twitch.tv/nariiel">Did you know that you can subscribe for free with Prime Gaming?</a>
 </p>
