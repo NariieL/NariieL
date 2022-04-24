@@ -29,3 +29,6 @@ Also, we count on the participation of the community. **We may not be the best, 
 > Free mappings created by our team, as well as map modifications added.
 
 > A hundred of apartments, all ready to use.
+> 
+> ![SOZ - Major credits ](https://user-images.githubusercontent.com/104008465/164984759-fea538fe-cf20-48bc-afd0-45cb96c4c7ae.png)
+
