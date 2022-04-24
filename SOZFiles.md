@@ -14,6 +14,7 @@ The other goal of SOZ is to **offer a "Click & Host Server"**, but in all honest
 Also, we count on the participation of the community. **We may not be the best, but together we can be.** Providing quality development that can improve all of our servers should be the primary goal of any developer with a community. **By creating SOZ, we want to allow any developer to take what we have developed and improve your respective servers.** At the same time helping SOZ to grow in order to contribute to the war effort.
 
 ![SOZ - Key Feature ](https://user-images.githubusercontent.com/104008465/164982666-ec501b93-94db-4773-83a4-0f8f0a96e7c5.png)
+**Exhaustive list of what SOZ offers:**
 > Use of a QB base that will disappear in V2.
 
 > Ten different companies, with their own gameplay mechanics. Each of them having a dependence on another one in order to create open circuits of RôlePlay. (Example: Gas stations are emptied to force to be used, as well as banks and ATM. Asking Players to fill these. )
@@ -31,4 +32,4 @@ Also, we count on the participation of the community. **We may not be the best, 
 > A hundred of apartments, all ready to use.
 
 ![SOZ - Major credits ](https://user-images.githubusercontent.com/104008465/164984759-fea538fe-cf20-48bc-afd0-45cb96c4c7ae.png)
-**As said before, we have used and modified resources offered for free, here is the list of everything we use :**
+**As said before, we have used and modified resources offered for free, here is the list of everything we use:**
