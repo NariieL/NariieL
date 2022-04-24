@@ -27,6 +27,8 @@ Also, we count on the participation of the community. **We may not be the best, 
 
 > Drag & Drop inventory to improve usability.
 
+> A modern phone based on NPWD.
+
 > Free mappings created by our team, as well as map modifications added.
 
 > A hundred of apartments, all ready to use.
