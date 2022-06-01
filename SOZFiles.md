@@ -23,6 +23,8 @@ Also, we count on the participation of the community. **We may not be the best, 
 
 > Use of safes simultaneously, all separate.
 
+> A custom VOIP Mumble.
+
 > Multiple vehicle exits for parking, garages and companies.
 
 > Drag & Drop inventory to improve usability.
