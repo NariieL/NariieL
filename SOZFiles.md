@@ -17,7 +17,7 @@ Also, we count on the participation of the community. **We may not be the best, 
 **Exhaustive list of what SOZ offers:**
 > Use of a QB base that will disappear in V2.
 
-> Ten different companies, with their own gameplay mechanics. Each of them having a dependence on another one in order to create open circuits of RôlePlay. (Example: Gas stations are emptied to force to be used, as well as banks and ATM. Asking Players to fill these. )
+> Twelve different companies, with their own gameplay mechanics. Each of them having a dependence on another one in order to create open circuits of RôlePlay. (Example: Gas stations are emptied to force to be used, as well as banks and ATM. Asking Players to fill these. )
 
 > BTarget improvement, allowing to add any interaction.
 
