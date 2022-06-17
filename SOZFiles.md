@@ -35,5 +35,7 @@ Also, we count on the participation of the community. **We may not be the best, 
 
 > A hundred of apartments, all ready to use.
 
+* Special note : Somes mapping are actually delete from the OpenSource because they're not as our own propriety. They will be replace asap.
+
 ![SOZ - Major credits ](https://user-images.githubusercontent.com/104008465/164984759-fea538fe-cf20-48bc-afd0-45cb96c4c7ae.png)
 **As said before, we have used and modified resources offered for free, here is the list of everything we use:**
