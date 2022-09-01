@@ -29,7 +29,7 @@ Also, we count on the participation of the community. **We may not be the best, 
 
 > Drag & Drop inventory to improve usability.
 
-> A modern phone, with its applications.
+> A modern handmade phone, with its applications.
 
 > Free mappings created by our team, as well as map modifications added.
 
