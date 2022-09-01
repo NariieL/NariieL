@@ -19,6 +19,8 @@ Also, we count on the participation of the community. **We may not be the best, 
 
 > Twelve different companies, with their own gameplay mechanics. Each of them having a dependence on another one in order to create open circuits of RôlePlay. (Example: Gas stations are emptied to force to be used, as well as banks and ATM. Asking Players to fill these. )
 
+> A system of pollution and deforestation. If the company doesn't charge the electric stations, the city goes into blackout. If it produces too much, San Andreas becomes polluted.
+
 > BTarget improvement, allowing to add any interaction.
 
 > Use of safes simultaneously, all separate.
