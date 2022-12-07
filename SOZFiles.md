@@ -15,6 +15,8 @@ Also, we count on the participation of the community. **We may not be the best, 
 
 ![SOZ - Key Feature ](https://user-images.githubusercontent.com/104008465/164982666-ec501b93-94db-4773-83a4-0f8f0a96e7c5.png)
 **Exhaustive list of what SOZ offers:**
+> A unique SOZCore developed with TypeScript.
+
 > Use of a QB base that will disappear in V2.
 
 > Fourteen different companies, with their own gameplay mechanics. Each of them having a dependence on another one in order to create open circuits of RôlePlay. (Example: Gas stations are emptied to force to be used, as well as banks and ATM. Asking Players to fill these. )
@@ -23,9 +25,9 @@ Also, we count on the participation of the community. **We may not be the best, 
 
 > BTarget improvement, allowing to add any interaction.
 
-> Use of safes simultaneously, all separate.
+> Use of safes simultaneously, all separate. 
 
-> A custom VOIP Mumble.
+> A custom VOIP [Mumble](https://github.com/SOZ-Faut-etre-Sub/ZUMBLE), nammed Zumble. Being important, it has its own repository.
 
 > Multiple vehicle exits for parking, garages and companies.
 
