@@ -5,9 +5,11 @@ Developed especially for the Zerator community.
 </p>
 
 ![SOZ - Join the server_](https://user-images.githubusercontent.com/104008465/206221735-bd60fab7-3d0a-4844-b07f-245ee932adbc.png)
-[ZeratoR](https://www.twitch.tv/zerator) is a French Twitch Streamer who created the ZEvent, MANDATORY and lot others things. Following one of these projects called RPZ, gathering all the French content creators for a temporary two weeks server, we had the idea to offer a server to his community.
+[ZeratoR](https://www.twitch.tv/zerator) is a French Twitch Streamer who created the ZEvent, MANDATORY and lot others things. Following one of these projects called RPZ, gathering all the French content creators for a temporary two weeks server, we had the idea to offer a server to his community. **Everyone on SOZ is a volunteer, however the project is fully funded by ZeratoR who pays for the server and the various licenses.**
 
 The server is in development since February 2022, and can be joined by being accepted on the [AllowList](https://soz.zerator.com/) ! 
+
+You can also visit the [Official Discord](https://discord.gg/soz-pas-soz), if you want to follow the development, the RoadMap and the different announcements.
 
 *P.S. : Like any community server, in order to register, you have to be a Twitch Subscriber.*
 
