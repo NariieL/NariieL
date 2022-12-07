@@ -4,6 +4,13 @@
 Developed especially for the Zerator community.
 </p>
 
+![SOZ - Join the server_](https://user-images.githubusercontent.com/104008465/206221735-bd60fab7-3d0a-4844-b07f-245ee932adbc.png)
+[ZeratoR](https://www.twitch.tv/zerator) is a French Twitch Creator who created the ZEvent, MANDATORY and lot others things. 
+
+Following one of these projects called RPZ, gathering all the French content creators for a temporary two weeks server, we had the idea to offer a server to his community.
+
+The server is in development since February 2022, and can be joined by being accepted on the [AllowList](https://soz.zerator.com/) 
+
 ![SOZ - Main Obj_](https://user-images.githubusercontent.com/104008465/206219720-ee131373-9da1-4ae6-90cd-9972f97a54f8.png)
 The main goal of SOZ development is to **revamp the various primary mechanics used by players.** This desire to improve the landscape has pushed us to review **the ergonomics of several interactions with a point of honor**, even going so far as to review the primary interactions such as the exchange between players, the use of chests, parking lots, and many other things.
 
