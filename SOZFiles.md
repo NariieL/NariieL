@@ -22,6 +22,8 @@ The other goal of SOZ is to **offer a "Click & Host Server"**, but in all honest
 
 Also, we count on the participation of the community. **We may not be the best, but together we can be.** Providing quality development that can improve all of our servers should be the primary goal of any developer with a community. **By creating SOZ, we want to allow any developer to take what we have developed and improve your respective servers.** At the same time helping SOZ to grow in order to contribute to the war effort.
 
+⚠️**The server is under development. This means that there are some bugs and that it is far from perfect. It is constantly evolving, many things are likely to change.**
+
 ![SOZ - Key Features_](https://user-images.githubusercontent.com/104008465/206219700-a8de93a5-8d79-4b03-aba8-fec8d237bcc4.png)
 **Exhaustive list of what SOZ offers:**
 > A unique SOZCore developed with TypeScript.
