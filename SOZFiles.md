@@ -1,7 +1,7 @@
-![SOZ BANNER v2](https://user-images.githubusercontent.com/104008465/164230939-d34fdc98-92e1-4d18-8cb4-2ec6f2ea6468.png)
+![SOZFond5](https://user-images.githubusercontent.com/104008465/206195637-86e4b31b-146c-44b5-b0e9-05b245faeb61.png)
 
 <p align="center">
-Developed especially for the ZeratoR community.
+Developed especially for the Zerator community.
 </p>
 
 ![SOZ - Main objectives ](https://user-images.githubusercontent.com/104008465/164983461-c2d93179-9df2-464b-934c-4c3903a87451.png)
@@ -29,9 +29,9 @@ Also, we count on the participation of the community. **We may not be the best, 
 
 > Multiple vehicle exits for parking, garages and companies.
 
-> Drag & Drop inventory to improve usability.
+> Drag-and-drop inventory to improve usability. Accompanied by over two hundred objects with their own icons created by the SOZ community.
 
-> A modern handmade phone, with its applications.
+> A modern handmade phone, in partnership with FailyV.
 
 > Free mappings created by our team, as well as map modifications added.
 
@@ -40,4 +40,67 @@ Also, we count on the participation of the community. **We may not be the best, 
 *Note : Some mapping are actually delete from the OpenSource because they're not as our own propriety. They will be replace asap. So you need to relocalise some safes and interactions, like the LSPD office.*
 
 ![SOZ - Major credits ](https://user-images.githubusercontent.com/104008465/164984759-fea538fe-cf20-48bc-afd0-45cb96c4c7ae.png)
-**As said before, we have used and modified resources offered for free, here is the list of everything we use:**
+**We would like to thank all the creators who are offering some of their creations to the community for free. Whether it is on [5Mod](https://fr.gta5-mods.com/) or on the [FiveM](https://forum.cfx.re/c/development/releases/7/l/latest) website.** It is also due to you that all the servers exist ! Thanks to you, you inspired us to make SOZ completely free.
+
+Some of these free components are used on SOZ, such as clothes and female haircuts. Even though this represents only 10% of the development, it is important to note that no, the server is not yet fully independent and homegrown. We strive to replace anything we use that does not come from our own hands as soon as possible, and we thank all those creators from the bottom of our hearts.
+
+All contributors to the project will be notified in a list.
+
+![SOZ - Using the server_](https://user-images.githubusercontent.com/104008465/206203151-701a8669-b4dc-479c-978a-8498b8c6129d.png)
+
+### Requirements
+ * NodeJS: to compile the code and migrate the database
+ * MySQL/MariaDB: to store the data
+ * Loki: to store the logs (Optional)
+ * Prometheus: to store the metrics (Optional)
+
+### Prepare and configure the server
+ * Clone the repository: `git clone https://github.com/SOZ-Faut-etre-Sub/SOZ-FiveM-Server.git`
+ * Copy the `env.cfg-dist` file to `env.cfg` and fill / replace any necessary values (like your database credentials)
+ * Copy the `resources/[soz]/soz-core/.env-dist` file to `resources/[soz]/soz-core/.env` and fill / replace any necessary values (like your database credentials)
+ * Compile the resources core and phone:
+   ```
+   cd resources/[soz]/soz-core && yarn install && yarn build
+   cd resources/[soz]/soz-phone && yarn install && yarn build
+   ```
+ * Migrate the database:
+   ```
+   cd resources/[soz]/soz-core && yarn run prisma migrate deploy
+   ```
+ * If you want to run in "production" mode copy the `modules-prod.cfg` file to `modules.cfg`
+ * If you want to run in "test" mode copy the `modules-prod.cfg` file to `modules.cfg`
+
+### Running the server
+Once everything is configured, [you can run the server by using the FXServer executable](https://docs.fivem.net/docs/server-manual/setting-up-a-server-vanilla/)
+
+On Windows:
+```
+C:\FXServer\server\FXServer.exe +exec server.cfg
+```
+
+On Linux:
+```
+bash ~/FXServer/server/run.sh +exec server.cfg
+```
+
+### Data
+This repository does not propose, yet, any base data (like vehicles, weapons, fuel stations, dealership, etc ....), you must use the inject your own data into
+the database at the moment.
+
+We want to provide a tool / base data set to do that, you can contribute to help us to do that.
+
+![SOZ - Issues   Pull requests_](https://user-images.githubusercontent.com/104008465/206208630-bf79fd74-d6e8-4b67-821d-dd3080306b8e.png)
+Contribution is welcome, but you must follow the rules below:
+
+* You must follow the [code of conduct](CODE_OF_CONDUCT.md)
+* If you are a user having problems with a server that is running this code, please contact the server owner, do not report an issue here.
+* Issues must only be used by developers or administrators of servers that want to report a bug with the code source, or propose a feature.
+* You must provide a minimum of information, this place is not a support forum, it's a discussion place for developers.
+* If you want to contribute, read the [INTERNAL.md](INTERNAL.md) file before contributing, as it allow to understand how the code works and current vision of the project.
+
+**Any issue or pull request that does not respect these rules will be closed without any warning.**
+
+This repository is an extract of our internal repository, pull requests will be merged in our internal repository and then pushed to this repository automatically.
+This means that you will not see your pull request merged here, and we will close them once they are merged in our internal repository.
+
+Don't worry you will still be credited as a contributor, and your name will appear in this repository, but you will not see your pull request merged here.
