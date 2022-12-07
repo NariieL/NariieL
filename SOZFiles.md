@@ -4,7 +4,7 @@
 Developed especially for the Zerator community.
 </p>
 
-![SOZ - Main objectives ](https://user-images.githubusercontent.com/104008465/164983461-c2d93179-9df2-464b-934c-4c3903a87451.png)
+![SOZ - Main Obj_](https://user-images.githubusercontent.com/104008465/206219720-ee131373-9da1-4ae6-90cd-9972f97a54f8.png)
 The main goal of SOZ development is to **revamp the various primary mechanics used by players.** This desire to improve the landscape has pushed us to review **the ergonomics of several interactions with a point of honor**, even going so far as to review the primary interactions such as the exchange between players, the use of chests, parking lots, and many other things.
 
 In order to make this dream come true, we had to force ourselves to **develop everything we could from scratch**, while making less use of what already exists for free, developed by a ton of developers with the goal of helping the community. **Allowing us to ignore all paid resources.**
@@ -13,7 +13,7 @@ The other goal of SOZ is to **offer a "Click & Host Server"**, but in all honest
 
 Also, we count on the participation of the community. **We may not be the best, but together we can be.** Providing quality development that can improve all of our servers should be the primary goal of any developer with a community. **By creating SOZ, we want to allow any developer to take what we have developed and improve your respective servers.** At the same time helping SOZ to grow in order to contribute to the war effort.
 
-![SOZ - Key Feature ](https://user-images.githubusercontent.com/104008465/164982666-ec501b93-94db-4773-83a4-0f8f0a96e7c5.png)
+![SOZ - Key Features_](https://user-images.githubusercontent.com/104008465/206219700-a8de93a5-8d79-4b03-aba8-fec8d237bcc4.png)
 **Exhaustive list of what SOZ offers:**
 > A unique SOZCore developed with TypeScript.
 
@@ -41,7 +41,7 @@ Also, we count on the participation of the community. **We may not be the best, 
 
 *Note : Some mapping are actually delete from the OpenSource because they're not as our own propriety. They will be replace asap. So you need to relocalise some safes and interactions, like the LSPD office.*
 
-![SOZ - Major credits ](https://user-images.githubusercontent.com/104008465/164984759-fea538fe-cf20-48bc-afd0-45cb96c4c7ae.png)
+![SOZ - Major crédit_](https://user-images.githubusercontent.com/104008465/206219769-003fa5c9-bf78-4458-9543-fd9b415bfb9d.png)
 **We would like to thank all the creators who are offering some of their creations to the community for free. Whether it is on [5Mod](https://fr.gta5-mods.com/) or on the [FiveM](https://forum.cfx.re/c/development/releases/7/l/latest) website.** It is also due to you that all the servers exist ! Thanks to you, you inspired us to make SOZ completely free.
 
 Some of these free components are used on SOZ, such as clothes and female haircuts. Even though this represents only 10% of the development, it is important to note that no, the server is not yet fully independent and homegrown. We strive to replace anything we use that does not come from our own hands as soon as possible, and we thank all those creators from the bottom of our hearts.
