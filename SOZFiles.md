@@ -27,7 +27,7 @@ Also, we count on the participation of the community. **We may not be the best, 
 
 > Use of safes simultaneously, all separate. 
 
-> A custom VOIP [Mumble](https://github.com/SOZ-Faut-etre-Sub/ZUMBLE), nammed Zumble. Being important, it has its own repository.
+> A custom VOIP Mumble, nammed [Zumble](https://github.com/SOZ-Faut-etre-Sub/ZUMBLE). Being important, it has its own repository.
 
 > Multiple vehicle exits for parking, garages and companies.
 
@@ -38,6 +38,8 @@ Also, we count on the participation of the community. **We may not be the best, 
 > Free mappings created by our team, as well as map modifications added.
 
 > A hundred of apartments, all ready to use.
+
+> Probably a ton of other things that we were able to develop in seven months, but which have been forgotten.
 
 *Note : Some mapping are actually delete from the OpenSource because they're not as our own propriety. They will be replace asap. So you need to relocalise some safes and interactions, like the LSPD office.*
 
