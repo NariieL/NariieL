@@ -24,7 +24,7 @@ Also, we count on the participation of the community. **We may not be the best, 
 **Exhaustive list of what SOZ offers:**
 > A unique SOZCore developed with TypeScript.
 
-> Use of a QB base that will disappear in V2.
+> We use QB Base to a lesser extent, which allowed us to launch the server. We are working on removing/replacing it in favour of SOZ Core.
 
 > Fourteen different companies, with their own gameplay mechanics. Each of them having a dependence on another one in order to create open circuits of RôlePlay. (Example: Gas stations are emptied to force to be used, as well as banks and ATM. Asking Players to fill these. )
 
