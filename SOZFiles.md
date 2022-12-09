@@ -20,7 +20,7 @@ In order to make this dream come true, we had to push ourselves to **develop eve
 
 The other goal of SOZ is to **offer a "Click & Host Server"**, In all honesty, this is very challenging and our V1 will not allow this at the time. **However, we work to improve this point until we can finally offer it to you and your community.**
 
-Also, we count on the participation of everyone. **We may not be the best, but together we can.** Providing good quality development that can improve all of our servers, this sure is the primary goal of any developer with a community. **By creating SOZ, we want to allow any developer to add what we have created to your respective servers.** And of course during that time, this will help SOZ to grow in order to contribute actively to the war effort!
+Also, we count on the participation of everyone. **We may not be the best, but together we can.** Providing good quality development that can improve all of our servers, this sure is the primary goal of any developer with a community. **By creating SOZ, we want to allow any developer to add what we have created to your respective servers.**
 
 ⚠️**The server is under development. This means that there are some bugs and that it is far from perfect. It is in constant evolution and many things are subject to change.**
 
