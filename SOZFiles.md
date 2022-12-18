@@ -108,6 +108,7 @@ We want to provide a tool / base data set to do that, you can contribute to help
 Contribution are welcomed, but you must follow the rules below:
 
 * You must follow the [code of conduct](CODE_OF_CONDUCT.md)
+* You must complete one of the available templates.
 * If you are a user having issues with a server that is running this code, please contact the server owner, do not report an issue here.
 * Issues must only be used by developers or administrators of servers that want to report a bug with the code source, or propose a feature.
 * You must provide a minimum of information, this place is not a support forum, it's an exchange place for developers.
